@@ -1,0 +1,66 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* the code above this makes sure all of the elements have 0 maring and 0 padding
+the computer gives certain elements like h1-h6 default values to padding and
+margins, this can interfere with our styling the * in CSS serves as a univerasl
+selector */
+
+body {
+    color: #39a6b2;
+    font-family: Helvetica, Arial, sans-serif;
+ }
+
+/*  
+(Different ways to use padding,
+
+one value= that value to every side, ex= padding: 20px; Applies 20px to every side.
+
+two values= first value top and bottom second value left and right 
+ex = padding: 20px 35px; Applies 20 px to top + bottom, and 35px to left and right.
+
+four values = applies it in this order top, right, bottom, and left 
+ex= padding: 10px 15px 20px 25px; applies 10 to the top 15 to the right and so on.
+
+you can also specify, ex= padding-top: 10px; padding-right: 15px; etc.
+
+*/
+
+header { 
+      padding: 20px 35px; 
+      background-color: #39a6b2;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: #fce138;
+    margin: 0;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: #fce138;
+}
+
+header nav {
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
+}
+
+
+
