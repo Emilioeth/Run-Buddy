@@ -31,8 +31,11 @@ you can also specify, ex= padding-top: 10px; padding-right: 15px; etc.
 */
 
 header { 
-      padding: 20px 35px; 
-      background-color: #39a6b2;
+    display: flex;
+    padding: 20px 35px; 
+    background-color: #39a6b2;
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 header h1 {
@@ -40,7 +43,6 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
 }
 
 header a {
@@ -49,7 +51,6 @@ header a {
 }
 
 header nav {
-    float: right;
     margin: 7px 0;
 }
 
