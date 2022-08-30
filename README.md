@@ -1,6 +1,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&size=30&pause=2000&color=0078D6&width=435&lines=Run+Buddy;By+Emili0)
 
-(/assets/images/readmeIMG.png)
+  ![ProjectImage](/assets/images/readmeIMG.png)
   
   ## Description
   Official website template for RunBuddy. A business that offers fitness training services.
