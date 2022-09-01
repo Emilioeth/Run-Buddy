@@ -5,7 +5,7 @@
   ## Description
   Official website template for RunBuddy. A business that offers fitness training services.
 
-  https://emilioeth.github.io/Run-Buddy/
+  [Link](https://emilioeth.github.io/Run-Buddy/)
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Emilioeth.Run+Buddy&left_color=blue&right_color=blue)
 
